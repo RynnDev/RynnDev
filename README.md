@@ -1,6 +1,6 @@
 <!-- 🌙 IMMERSIVE HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Ryan%20Adriyanto&fontSize=55&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Enthusiast&descSize=16&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Ryan%20Adriyanto&fontSize=55&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Full%20Stack%20Developer%20" />
 </div>
 
 <!-- 🎯 Quick Navigation -->
